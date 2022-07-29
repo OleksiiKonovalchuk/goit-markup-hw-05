@@ -95,7 +95,7 @@ color: var(--logo-main-color);
     border-radius: 2px;
 }
 .head-wrapper {
-    display: flex;=
+    display: flex;
 }
 .nav {
     display: flex; 
@@ -361,6 +361,7 @@ color: var(--logo-main-color);
     border: 1px solid var(--icon-background-color);
     border-radius: 4px;
     color: var(--icon-background-color);
+
     transition: border-color var(--time-and-function), color var(--time-and-function);
 }
 
@@ -377,7 +378,6 @@ color: var(--logo-main-color);
     padding: 60px 0;
 }
 .logo-footer {
-    width: auto;
     font-family: var(--font-family-logo);
     font-weight: 700;
     font-size: 26px;
